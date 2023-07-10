@@ -1,3 +1,31 @@
+# React pics
+
+Picture search app made with React 
+
+## Summary
+
+Picture search app made with React originally done during a React-course.
+
+## Background
+
+Picture search app made with React originally done during a React-course. Original version made during the course can be found in the ``course-original`` branch. In other branches the tool will be delevoped further.
+
+## How is it used?
+
+To run the project you will need a api and key for that api. I have used Unplash picture search api for this project.
+
+Commands for running the project can be found from the Create React App section below.
+
+## What next?
+
+Develop the tool further and add more features to it
+* Better UI
+
+## Acknowledgments
+
+* Do not use code, images, data etc. from others without permission.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
