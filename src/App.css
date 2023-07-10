@@ -1,0 +1,14 @@
+.app {
+    margin-top: 1%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.app-text {
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    color: yellow;
+    background-color: darkgoldenrod;
+}
