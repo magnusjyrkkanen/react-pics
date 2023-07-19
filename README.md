@@ -19,10 +19,11 @@ Commands for running the project can be found from the Create React App section 
 ## What next?
 
 Develop the tool further and add more features to it
-* Better UI
+* UI improvements
 
 ## Acknowledgments
 
+* Project originally started in Udemy's Modern React with Redux -course.
 * Do not use code, images, data etc. from others without permission.
 
 
